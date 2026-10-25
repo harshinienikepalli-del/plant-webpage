@@ -1,0 +1,32 @@
+
+body {
+    background-color: lightcyan;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+    background-color: lightblue;
+}
+
+h2 {
+    color: teal;
+}
+
+p {
+    color: black;
+}
+
+ul {
+    color: darkblue;
+}
+
+button {
+    background-color: teal;
+    color: white;
+}
+
+footer {
+    background-color: lightblue;
+}
